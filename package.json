@@ -1,0 +1,22 @@
+{
+  "name": "avoid-nested-for",
+  "version": "1.0.0",
+  "description": "Avoid nested for loops in Javascrips code and optimize time complexity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisara/avoid-nested-for-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisara/avoid-nested-for-js/issues"
+  },
+  "homepage": "https://github.com/thisara/avoid-nested-for-js#readme",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
